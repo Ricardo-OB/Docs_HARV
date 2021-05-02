@@ -7,3 +7,4 @@ Todos los manuales y guias rapidas reunidos en este repositorio fueron tomados d
 5. PDF Coffe. https://pdfcoffee.com
 6. Med Wrench. https://www.medwrench.com/
 7. All Guides (All Manuals In One Place). https://all-guidesbox.com
+8. DL-Manual. https://dl-manual.com/
