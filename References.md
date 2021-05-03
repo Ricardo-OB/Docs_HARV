@@ -11,3 +11,4 @@ Todos los manuales y guias rapidas reunidos en este repositorio fueron tomados d
 9. DOCPlayer. https://docplayer.es
 10. Dokumen Tips. https://dokumen.tips/
 11. Opweb. https://www.opweb.de
+12. Qdoc Tips. https://qdoc.tips/
