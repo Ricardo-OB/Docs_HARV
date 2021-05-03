@@ -9,5 +9,5 @@ Todos los manuales y guias rapidas reunidos en este repositorio fueron tomados d
 7. All Guides (All Manuals In One Place). https://all-guidesbox.com
 8. DL-Manual. https://dl-manual.com/
 9. DOCPlayer. https://docplayer.es
-10. Dokumne Tips. https://dokumen.tips/
+10. Dokumen Tips. https://dokumen.tips/
 11. Opweb. https://www.opweb.de
