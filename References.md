@@ -10,3 +10,4 @@ Todos los manuales y guias rapidas reunidos en este repositorio fueron tomados d
 8. DL-Manual. https://dl-manual.com/
 9. DOCPlayer. https://docplayer.es
 10. Dokumne Tips. https://dokumen.tips/
+11. Opweb. https://www.opweb.de
